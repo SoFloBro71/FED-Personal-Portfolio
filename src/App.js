@@ -4,17 +4,17 @@ import Contact from "./Components/Contact";
 import Projects from "./Components/Projects";
 import Navbar from "./Components/Navbar";
 import Skills from "./Components/Skills";
-import Testimonials from "./Components/Testimonials";
+import Footer from "./Components/Footer"
 
 export default function App() {
   return (
-    <main className="text-gray-400 bg-gray-900 body-font">
+    <main className="text-red-900 bg-pink-200 body-font">
       <Navbar />
       <About />
       <Projects />
       <Skills />
-      <Testimonials />
       <Contact/>
+      <Footer />
     </main>
   );
 }
