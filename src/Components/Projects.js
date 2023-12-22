@@ -12,9 +12,7 @@ export default function Projects() {
 						Apps I've Built
 					</h1>
 					<p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-						Lorem ipsum, dolor sit amet consectetur adipisicing elit. Explicabo
-						facilis repellat ab cupiditate alias vero aliquid obcaecati quisquam
-						fuga dolore.
+					Below are links to the GitHub repositories of some of my previous works that I feel best show off some of the skills that I've learned over my years in Creative Computing.
 					</p>
 				</div>
 				<div className="flex flex-wrap -m-4">
