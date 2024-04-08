@@ -39,6 +39,14 @@ export const projects = [
     image: "./crescent_moon.gif",
     link: "https://deluxe-churros-35d8f9.netlify.app",
   },
+  {
+    title: "Kablam!",
+    subtitle: "Profecional Prectice",
+    description:
+      "For this module we buildt a game from the ground up, based on games such as Super Smash Bros Ulitmate and Mortal Combat X, that is completely functional, includes menus for players to navigate through and multiple levels for players to battle in",
+    image: "./smashbros.gif",
+    link: "https://deluxe-churros-35d8f9.netlify.app",
+  },
 ];
 
 export const skills = [
